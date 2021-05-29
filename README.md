@@ -1,6 +1,7 @@
-![Image](https://twitter.com/paulchenz/photo)
 
 ## Welcome to GitHub Pages
+
+![Image](https://twitter.com/paulchenz/photo)
 
 You can use the [editor on GitHub](https://github.com/paulzchen/paulzchen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
