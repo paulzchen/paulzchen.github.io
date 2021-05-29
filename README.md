@@ -5,8 +5,8 @@ Currently, I am a PhD student in the Department of Chemical Engineering & Applie
 
 Outside of the lab, I mentor a number of students, serve as the Head of Programming for [Science Rendezvous at the University of Toronto](http://www.sciencerendezvousuoft.ca/science-rendezvous/) and direct [“I Am… A Scientist”](https://www.youtube.com/playlist?list=PLguaypFyd20heLkrIZdqmsxJa6IumCd4a), a new science outreach initiative for kids. 
 
-## My Research
-Since early March 2020, I have pivoted my work to help respond to COVID-19. My research has focused on understanding why superspreading drives the COVID-19 pandemic, developing insight into the extent to which SARS-CoV-2 is shed via droplets and aerosols, assessing the respiratory kinetics of SARS-CoV-2, identifying an indicator to potentially predict severe COVID-19 days before disease deterioration, and evaluating methods to decontaminate and reprocess N95 respirators for reuse. 
+## Research
+Since early March 2020, I have pivoted my work to help respond to COVID-19. My research has focused on understanding why superspreading drives the COVID-19 pandemic, developing insight into the extent to which SARS-CoV-2 is shed via droplets and aerosols, assessing the respiratory kinetics of SARS-CoV-2, finding an indicator to potentially predict severe COVID-19 days before disease deterioration, and evaluating methods to decontaminate and reprocess N95 respirators for reuse. 
 
 Outside of COVID-19, I investigate how inorganic nanocrystals grow at the atomic level and use that insight to design new nanomaterials for health applications. I am passionate about developing new methodological approaches to design materials and technologies that address key health, energy and environmental issues.
 
@@ -16,7 +16,7 @@ Outside of COVID-19, I investigate how inorganic nanocrystals grow at the atomic
 1. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
 1. **Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* Understanding why superspreading drives COVID-19 but not pandemic H1N1. _under review_.
 1. **Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* [SARS-CoV-2 shedding dynamics across the respiratory tract, sex and disease severity for adult and pediatric COVID-19.](https://www.medrxiv.org/content/10.1101/2021.02.17.21251926v2) _under review_, preprinted in medRxiv.
-1.	**Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.*[Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols.](https://doi.org/10.7554/eLife.65774) _eLife_ **10**, e65774 (2021).	
+1.	**Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* [Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols.](https://doi.org/10.7554/eLife.65774) _eLife_ **10**, e65774 (2021).	
 1.	Clasky, A.J.†, Watchorn, J.D.†, **Chen, P.Z.**, Gu, F.X.* [From prevention to diagnosis and treatment: biomedical applications of metal nanoparticle-hydrogel composites.](https://doi.org/10.1016/j.actbio.2020.12.030) _Acta Biomater._ **122**, 1 (2021). 
 1.	Kumar, A., Kasloff, S.B., Leung, A., Cutts, T., Strong, J.E., Hills, K., Gu, F.X., **Chen, P.Z.**, Vasquez-Grande, G., Rush., B., Lother, S., Malo, K., Zarychanski, R., Krishnan, J.* [Decontamination of N95 masks for re-use employing 7 widely available sterilization methods.](https://doi.org/10.1371/journal.pone.0243965) _PLoS One_ **15**, e0243965 (2020). 
 1.	**Chen, P.Z.**, Ngan, A., Manson, N., Maynes, J.T., Borschel, G.H., Rotstein, O.D., Gu, F.X.* [Transmission of aerosols through pristine and reprocessed N95 respirators.](https://doi.org/10.1101/2020.05.14.20094821) preprinted in medRxiv.
