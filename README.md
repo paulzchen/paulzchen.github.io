@@ -1,3 +1,5 @@
+![Image](https://twitter.com/paulchenz/photo)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/paulzchen/paulzchen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
@@ -32,6 +34,6 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paulzchen/paulzchen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contact me through [Twitter](https://twitter.com/paulchenz) or [email](pz.chen@mail.utoronto.ca).
