@@ -1,15 +1,15 @@
 ![Headshot image](https://media-exp1.licdn.com/dms/image/C4E03AQHo2PCKrcAiUQ/profile-displayphoto-shrink_400_400/0/1521860909911?e=1627516800&v=beta&t=UpsTF62w5eM0fDP7gAGv2qHMTFqhWzBGPt7NaL5dHy8)
 
 ## About Me
-Currently, I am a PhD student in the Department of Chemical Engineering & Applied Chemistry at the University of Toronto, where I am an NSERC Vanier Scholar and Junior Fellow of Massey College. Prior to arriving in Toronto, I conducted research at the University of Waterloo, Harvard Medical School and Brigham & Women’s Hospital, and received my BASc in Nanotechnology Engineering from the University of Waterloo in 2016. I have a multidisciplinary background, with research experience in nanoscience, materials science, chemical engineering, biomedical engineering, infectious diseases and mathematical modelling. 
+Currently, I am a PhD student in the Department of Chemical Engineering & Applied Chemistry at the University of Toronto, where I am an NSERC Vanier Scholar in the lab of [Frank X. Gu](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/frank-gu/) and [Junior Fellow of Massey College](https://www.masseycollege.ca/). Prior to arriving in Toronto, I conducted research at the University of Waterloo, Harvard Medical School and Brigham & Women’s Hospital, and received my BASc in Nanotechnology Engineering from the University of Waterloo in 2016. I have a multidisciplinary background, conducting research in nanoscience, materials science, physical chemistry, chemical engineering, biomedical engineering, mathematical modelling, epidemiology and infectious diseases. 
 
-I also currently serve as the Head of Programming for [Science Rendezvous at UofT](http://www.sciencerendezvousuoft.ca/science-rendezvous/) and direct [“I Am… A Scientist”](https://www.youtube.com/playlist?list=PLguaypFyd20heLkrIZdqmsxJa6IumCd4a), a new science outreach initiative for kids. 
+Outside of research, I mentor a number of students, serve as the Head of Programming for [Science Rendezvous at UofT](http://www.sciencerendezvousuoft.ca/science-rendezvous/) and direct [“I Am… A Scientist”](https://www.youtube.com/playlist?list=PLguaypFyd20heLkrIZdqmsxJa6IumCd4a), a new science outreach initiative for kids. 
 
 ## My Research
 Since early March 2020, my research has focused on evaluating methods to decontaminate and reprocess N95 respirators for reuse, interpreting the respiratory kinetics of SARS-CoV-2, understanding why superspreading drives the COVID-19 pandemic, providing insight into the extent to which SARS-CoV-2 is shed via droplets and aerosols, and developing an indicator to potentially predict severe COVID-19 days before disease deterioration. 
 Outside of COVID-19, I investigate how nanocrystals grow at the atomic level and use the insight to design nanomaterials. I am passionate about developing new methodological approaches to design materials and technologies that address key health, energy and environmental issues.
 
-### Publications
+## Publications
 22. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
 21. **Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* 
 		Understanding why superspreading drives COVID-19 but not pandemic H1N1. _under review_.
