@@ -11,7 +11,7 @@ Since early March 2020, I have pivoted my work to help respond to the COVID-19 p
 Outside of COVID-19, I investigate how inorganic nanocrystals grow at the atomic level and use that insight to design new nanomaterials for health applications. I am passionate about developing new methodological approaches to design materials and technologies that address key health, energy and environmental issues.
 
 ## Publications
-22.	**Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
+- **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
 21.	**Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* 
 		Understanding why superspreading drives COVID-19 but not pandemic H1N1. _under review_.
 20.  **Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* 
