@@ -14,14 +14,10 @@ Outside of COVID-19, I investigate how inorganic nanocrystals grow at the atomic
 (updated May 29, 2021)
 
 1. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
-1. **Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* 
-		Understanding why superspreading drives COVID-19 but not pandemic H1N1. _under review_.
-1. **Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* 
-		[SARS-CoV-2 shedding dynamics across the respiratory tract, sex and disease severity for adult and pediatric COVID-19.](https://www.medrxiv.org/content/10.1101/2021.02.17.21251926v2) _under review_, preprinted in medRxiv.
-1.	**Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.*
-		[Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols.](https://doi.org/10.7554/eLife.65774) _eLife_ **10**, e65774 (2021).	
-1.	Clasky, A.J.†, Watchorn, J.D.†, **Chen, P.Z.**, Gu, F.X.* 
-		[From prevention to diagnosis and treatment: biomedical applications of metal nanoparticle-hydrogel composites.](https://doi.org/10.1016/j.actbio.2020.12.030) _Acta Biomater._ **122**, 1 (2021). 
+1. **Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* Understanding why superspreading drives COVID-19 but not pandemic H1N1. _under review_.
+1. **Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* [SARS-CoV-2 shedding dynamics across the respiratory tract, sex and disease severity for adult and pediatric COVID-19.](https://www.medrxiv.org/content/10.1101/2021.02.17.21251926v2) _under review_, preprinted in medRxiv.
+1.	**Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.*[Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols.](https://doi.org/10.7554/eLife.65774) _eLife_ **10**, e65774 (2021).	
+1.	Clasky, A.J.†, Watchorn, J.D.†, **Chen, P.Z.**, Gu, F.X.* [From prevention to diagnosis and treatment: biomedical applications of metal nanoparticle-hydrogel composites.](https://doi.org/10.1016/j.actbio.2020.12.030) _Acta Biomater._ **122**, 1 (2021). 
 1.	Kumar, A., Kasloff, S.B., Leung, A., Cutts, T., Strong, J.E., Hills, K., Gu, F.X., **Chen, P.Z.**, Vasquez-Grande, G., Rush., B., Lother, S., Malo, K., Zarychanski, R., Krishnan, J.* [Decontamination of N95 masks for re-use employing 7 widely available sterilization methods.](https://doi.org/10.1371/journal.pone.0243965) _PLoS One_ **15**, e0243965 (2020). 
 1.	**Chen, P.Z.**, Ngan, A., Manson, N., Maynes, J.T., Borschel, G.H., Rotstein, O.D., Gu, F.X.* [Transmission of aerosols through pristine and reprocessed N95 respirators.](https://doi.org/10.1101/2020.05.14.20094821) preprinted in medRxiv.
 1.	Daeschler, S.C.†, Manson, N.†, Joachim, K., Chin, A.W.H., Chan, K., **Chen, P.Z.**, Tajdaran, K., Mirmoeini, K., Zhang, J.J., Maynes, J.T., Science, M., Darbandi, A., Stephens, D., Gu, F.X., Poon, L.L.M., Borschel, G.H.* [Effect of moist heat reprocessing of N95 respirators on SARS-CoV-2 inactivation and respirator function.](https://doi.org/10.1503/cmaj.201203) _Can. Med. Assoc. J._ **192**, E118 (2020). 
