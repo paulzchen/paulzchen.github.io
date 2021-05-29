@@ -11,7 +11,9 @@ Since early March 2020, I have pivoted my work to help respond to the COVID-19 p
 Outside of COVID-19, I investigate how inorganic nanocrystals grow at the atomic level and use that insight to design new nanomaterials for health applications. I am passionate about developing new methodological approaches to design materials and technologies that address key health, energy and environmental issues.
 
 ## Publications
-22	**Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
+(updated May 29, 2021)
+
+22"  "**Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
 
 21	**Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* 
 		Understanding why superspreading drives COVID-19 but not pandemic H1N1. _under review_.
@@ -21,8 +23,10 @@ Outside of COVID-19, I investigate how inorganic nanocrystals grow at the atomic
 
 19.	**Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.*
 		[Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols.](https://doi.org/10.7554/eLife.65774) _eLife_ **10**, e65774 (2021).
+		
 18.	Clasky, A.J.†, Watchorn, J.D.†, **Chen, P.Z.**, Gu, F.X.* 
 		[From prevention to diagnosis and treatment: biomedical applications of metal nanoparticle-hydrogel composites.](https://doi.org/10.1016/j.actbio.2020.12.030) _Acta Biomater._ **122**, 1 (2021). 
+		
 17.	Kumar, A., Kasloff, S.B., Leung, A., Cutts, T., Strong, J.E., Hills, K., Gu, F.X., **Chen, P.Z.**, Vasquez-Grande, G., Rush., B., Lother, S., Malo, K., Zarychanski, R., Krishnan, J.* [Decontamination of N95 masks for re-use employing 7 widely available sterilization methods.](https://doi.org/10.1371/journal.pone.0243965) _PLoS One_ **15**, e0243965 (2020). 
 16.	**Chen, P.Z.**, Ngan, A., Manson, N., Maynes, J.T., Borschel, G.H., Rotstein, O.D., Gu, F.X.* [Transmission of aerosols through pristine and reprocessed N95 respirators.](https://doi.org/10.1101/2020.05.14.20094821) preprinted in medRxiv.
 15.	Daeschler, S.C.†, Manson, N.†, Joachim, K., Chin, A.W.H., Chan, K., **Chen, P.Z.**, Tajdaran, K., Mirmoeini, K., Zhang, J.J., Maynes, J.T., Science, M., Darbandi, A., Stephens, D., Gu, F.X., Poon, L.L.M., Borschel, G.H.* [Effect of moist heat reprocessing of N95 respirators on SARS-CoV-2 inactivation and respirator function.](https://doi.org/10.1503/cmaj.201203) _Can. Med. Assoc. J._ **192**, E118 (2020). 
@@ -43,6 +47,7 @@ Outside of COVID-19, I investigate how inorganic nanocrystals grow at the atomic
 		
 † denotes equal authorship, * denotes corresponding author(s)
 
+For an up-to-date list of my papers, please see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=MGGFI3IAAAAJ&view_op=list_works&sortby=pubdate).
 
 #### Twitter
 
