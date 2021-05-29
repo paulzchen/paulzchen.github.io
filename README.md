@@ -6,19 +6,19 @@ Currently, I am a PhD student in the Department of Chemical Engineering & Applie
 Outside of the lab, I mentor a number of students, serve as the Head of Programming for [Science Rendezvous at the University of Toronto](http://www.sciencerendezvousuoft.ca/science-rendezvous/) and direct [“I Am… A Scientist”](https://www.youtube.com/playlist?list=PLguaypFyd20heLkrIZdqmsxJa6IumCd4a), a new science outreach initiative for kids. 
 
 ## My Research
-Since early March 2020, I have pivoted my work to help respond to the COVID-19 pandemic. My research has focused on understanding why superspreading drives SARS-CoV-2 transmission, developing insight into the extent to which SARS-CoV-2 is shed via droplets and aerosols, interpreting the respiratory kinetics of SARS-CoV-2, identifying an indicator to potentially predict severe COVID-19 days before disease deterioration, and evaluating methods to decontaminate and reprocess N95 respirators for reuse. 
+Since early March 2020, I have pivoted my work to help respond to COVID-19. My research has focused on understanding why superspreading drives the COVID-19 pandemic, developing insight into the extent to which SARS-CoV-2 is shed via droplets and aerosols, assessing the respiratory kinetics of SARS-CoV-2, identifying an indicator to potentially predict severe COVID-19 days before disease deterioration, and evaluating methods to decontaminate and reprocess N95 respirators for reuse. 
 
 Outside of COVID-19, I investigate how inorganic nanocrystals grow at the atomic level and use that insight to design new nanomaterials for health applications. I am passionate about developing new methodological approaches to design materials and technologies that address key health, energy and environmental issues.
 
 ## Publications
 (updated May 29, 2021)
 
-22"  "**Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
+0. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
 
-21	**Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* 
+0. **Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* 
 		Understanding why superspreading drives COVID-19 but not pandemic H1N1. _under review_.
 
-20	**Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* 
+0. **Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* 
 		[SARS-CoV-2 shedding dynamics across the respiratory tract, sex and disease severity for adult and pediatric COVID-19.](https://www.medrxiv.org/content/10.1101/2021.02.17.21251926v2) _under review_, preprinted in medRxiv.
 
 19.	**Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.*
@@ -44,7 +44,7 @@ Outside of COVID-19, I investigate how inorganic nanocrystals grow at the atomic
 3.	Verma, M.S.†, **Chen, P.Z.**†, Jones, L., Gu, F.X.* [“Chemical nose” for the visual identification of emerging ocular pathogens using gold nanostars.](https://doi.org/10.1016/j.bios.2014.05.045) _Biosens. Bioelectron._ **61**, 386 (2014). 
 2.	Verma, M.S.†, **Chen, P.Z.**†, Jones, L., Gu, F.X.* [Branching and size of CTAB-coated gold nanostars control the colorimetric detection of bacteria.](https://doi.org/10.1039/C3RA46194G) _RSC Adv._ **4**, 10660 (2014). 
 1.	Wang, S., Tasoglu, S., **Chen, P.Z.**, Chen, M., Akbas, R., Wach, S., Ozdemir, C.I., Gurkan, U.A., Giguel, F.F, Kuritzkes, D.R., Demirci, U.* [Micro-a-fluidics ELISA for rapid CD4 cell count at the point-of-care.](https://doi.org/10.1038/srep03796) _Sci. Rep._ **4**, 3796 (2014).
-		
+{: reversed="reversed"}	
 † denotes equal authorship, * denotes corresponding author(s)
 
 For an up-to-date list of my papers, please see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=MGGFI3IAAAAJ&view_op=list_works&sortby=pubdate).
