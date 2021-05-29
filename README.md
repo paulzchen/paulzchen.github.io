@@ -1,13 +1,13 @@
 ![Headshot image](https://media-exp1.licdn.com/dms/image/C4E03AQHo2PCKrcAiUQ/profile-displayphoto-shrink_400_400/0/1521860909911?e=1627516800&v=beta&t=UpsTF62w5eM0fDP7gAGv2qHMTFqhWzBGPt7NaL5dHy8)
 
 ## About Me
-Currently, I am a PhD student in the Department of Chemical Engineering & Applied Chemistry at the University of Toronto, where I am advised by [Frank Gu](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/frank-gu/). I am an NSERC Vanier Scholar and [Junior Fellow of Massey College](https://www.masseycollege.ca/). Prior to arriving in Toronto, I conducted research at the University of Waterloo, Harvard Medical School and Brigham & Women’s Hospital, and received my BASc in Nanotechnology Engineering from the University of Waterloo in 2016. I have a multidisciplinary background, conducting research in nanoscience, materials science, physical chemistry, chemical engineering, biomedical engineering, mathematical modelling, epidemiology and infectious diseases. 
+Currently, I am a PhD student in the Department of Chemical Engineering & Applied Chemistry at the University of Toronto, where I am advised by [Professor Frank X. Gu](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/frank-gu/). I am an NSERC Vanier Scholar and [Junior Fellow of Massey College](https://www.masseycollege.ca/). Prior to arriving in Toronto, I conducted research at the University of Waterloo, Harvard Medical School and Brigham & Women’s Hospital, and received my BASc in Nanotechnology Engineering from the University of Waterloo in 2016. I have a multidisciplinary background, leading research in the fields of nanoscience, materials science, physical chemistry, chemical engineering, biomedical engineering, mathematical modelling, epidemiology and infectious diseases. 
 
-Outside of research, I mentor a number of students, serve as the Head of Programming for [Science Rendezvous at UofT](http://www.sciencerendezvousuoft.ca/science-rendezvous/) and direct [“I Am… A Scientist”](https://www.youtube.com/playlist?list=PLguaypFyd20heLkrIZdqmsxJa6IumCd4a), a new science outreach initiative for kids. 
+I also mentor a number of students, serve as the Head of Programming for [Science Rendezvous at the University of Toronto](http://www.sciencerendezvousuoft.ca/science-rendezvous/) and direct [“I Am… A Scientist”](https://www.youtube.com/playlist?list=PLguaypFyd20heLkrIZdqmsxJa6IumCd4a), a new science outreach initiative for kids. 
 
 ## My Research
-Since early March 2020, my research has focused on evaluating methods to decontaminate and reprocess N95 respirators for reuse, interpreting the respiratory kinetics of SARS-CoV-2, understanding why superspreading drives the COVID-19 pandemic, providing insight into the extent to which SARS-CoV-2 is shed via droplets and aerosols, and developing an indicator to potentially predict severe COVID-19 days before disease deterioration. 
-Outside of COVID-19, I investigate how nanocrystals grow at the atomic level and use the insight to design nanomaterials. I am passionate about developing new methodological approaches to design materials and technologies that address key health, energy and environmental issues.
+Since early March 2020, my research has focused on understanding why superspreading drives the COVID-19 pandemic, providing insight into the extent to which SARS-CoV-2 is shed via droplets and aerosols, interpreting the respiratory kinetics of SARS-CoV-2, developing an indicator to potentially predict severe COVID-19 days before disease deterioration, and evaluating methods to decontaminate and reprocess N95 respirators for reuse. 
+Outside of COVID-19, I investigate how nanocrystals grow at the atomic level and use that insight to design nanomaterials for health applications. I am passionate about developing new methodological approaches to design materials and technologies that address key health, energy and environmental issues.
 
 ## Publications
 22. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
@@ -40,6 +40,6 @@ Outside of COVID-19, I investigate how nanocrystals grow at the atomic level and
 † denotes equal authorship, * denotes corresponding author(s)
 
 
-### Twitter
+#### Twitter
 
-Follow me on [Twitter](https://twitter.com/paulchenz).
+Follow me on [Twitter](https://twitter.com/paulchenz) for research updates.
