@@ -1,15 +1,13 @@
+![Headshot image](https://media-exp1.licdn.com/dms/image/C4E03AQHo2PCKrcAiUQ/profile-displayphoto-shrink_400_400/0/1521860909911?e=1627516800&v=beta&t=UpsTF62w5eM0fDP7gAGv2qHMTFqhWzBGPt7NaL5dHy8)
 
 ### About Me
 
-![Headshot image](https://media-exp1.licdn.com/dms/image/C4E03AQHo2PCKrcAiUQ/profile-displayphoto-shrink_400_400/0/1521860909911?e=1627516800&v=beta&t=UpsTF62w5eM0fDP7gAGv2qHMTFqhWzBGPt7NaL5dHy8)
-
 
 ### Publications
-
-22.	**Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
-21.	**Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* 
+22	**Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
+21	**Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* 
 		Understanding why superspreading drives COVID-19 but not pandemic H1N1. _under review_.
-20.	**Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* 
+20	**Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* 
 		[SARS-CoV-2 shedding dynamics across the respiratory tract, sex and disease severity for adult and pediatric COVID-19.](https://www.medrxiv.org/content/10.1101/2021.02.17.21251926v2) _under review_, preprinted in medRxiv.
 19.	**Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.*
 		[Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols.](https://doi.org/10.7554/eLife.65774) _eLife_ **10**, e65774 (2021).
