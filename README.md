@@ -1,8 +1,6 @@
 
 ## Welcome to GitHub Pages
 
-![Image](https://twitter.com/paulchenz/photo)
-
 You can use the [editor on GitHub](https://github.com/paulzchen/paulzchen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -10,6 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+![Image](https://twitter.com/paulchenz/photo)
+```
 
 ```markdown
 Syntax highlighted code block
