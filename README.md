@@ -1,3 +1,4 @@
+page last updated in May 2021
 ![Headshot image](https://media-exp1.licdn.com/dms/image/C4E03AQHo2PCKrcAiUQ/profile-displayphoto-shrink_400_400/0/1521860909911?e=1627516800&v=beta&t=UpsTF62w5eM0fDP7gAGv2qHMTFqhWzBGPt7NaL5dHy8)
 
 ## About Me
@@ -13,8 +14,6 @@ In early March 2020, I pivoted my research to help with the response against COV
 Outside of COVID-19, I investigate how nanocrystals form at the atomic level and use that insight to design new nanomaterials for health applications. I am passionate about developing new methodological approaches to design materials and technologies that address key health, energy and environmental issues. Overall, I hope our work helps improve both science and society.
 
 ## Publications
-(updated May 29, 2021)
-
 1. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
 1. **Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* Understanding why superspreading drives COVID-19 but not pandemic H1N1. _under review_.
 1. **Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* [SARS-CoV-2 shedding dynamics across the respiratory tract, sex and disease severity for adult and pediatric COVID-19.](https://www.medrxiv.org/content/10.1101/2021.02.17.21251926v2) _under review_, preprinted in medRxiv.
