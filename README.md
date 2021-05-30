@@ -45,4 +45,4 @@ For an up-to-date list of my papers, please see [Google Scholar](https://scholar
 ## News
 May 2021 - ...
 
-April 2021 - Awarded the Professor Douglas Reeve Leaders of Tomorrow Award
+April 2021 - Received the Professor Douglas Reeve Leaders of Tomorrow Award
