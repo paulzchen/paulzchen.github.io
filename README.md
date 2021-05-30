@@ -10,7 +10,7 @@ Follow me on [Twitter](https://twitter.com/paulchenz) for research and outreach 
 ## My Research
 In early March 2020, I pivoted my work to help with the response to COVID-19. My research has focused on understanding why superspreading drives the COVID-19 pandemic, modelling how SARS-CoV-2 is shed via droplets and aerosols, characterizing the respiratory kinetics of SARS-CoV-2, finding an indicator to potentially predict severe COVID-19 before clinical deterioration, and evaluating methods to decontaminate N95 respirators for reuse. Among other findings, we published the first study to identify a virological factor that facilitates overdispersion, and superspreading, for directly transmitted viruses.
 
-Outside of COVID-19, I investigate how nanocrystals form at the atomic level and use that insight to design new nanomaterials for health applications. I am passionate about developing new methodological approaches to design materials and technologies that address key health, energy and environmental issues. Overall, I hope that our work helps improve both science and society.
+Outside of COVID-19, I investigate how nanocrystals form at the atomic level and use that insight to design new nanomaterials for health applications. I am passionate about developing new methodological approaches to design materials and technologies that address key health, energy and environmental issues. Overall, I hope our work helps improve both science and society.
 
 ## Publications
 (updated May 29, 2021)
