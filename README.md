@@ -1,14 +1,14 @@
 ![Headshot image](https://media-exp1.licdn.com/dms/image/C4E03AQHo2PCKrcAiUQ/profile-displayphoto-shrink_400_400/0/1521860909911?e=1627516800&v=beta&t=UpsTF62w5eM0fDP7gAGv2qHMTFqhWzBGPt7NaL5dHy8)
 
 ## About Me
-Currently, I am a PhD student in the Department of Chemical Engineering & Applied Chemistry at the University of Toronto, where I am advised by [Professor Frank X. Gu](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/frank-gu/). I am an [NSERC Vanier Scholar](https://vanier.gc.ca/en/home-accueil.html) and [Junior Fellow of Massey College](https://www.masseycollege.ca/). Prior to arriving in Toronto, I conducted research at the University of Waterloo, Harvard Medical School and Brigham & Women’s Hospital, and received my BASc in Nanotechnology Engineering from the University of Waterloo in 2016. I have a multidisciplinary background, leading research in the fields of nanoscience, materials science, physical chemistry, chemical engineering, biomedical engineering, mathematical modelling, epidemiology and infectious diseases. 
+Currently, I am a PhD student in the Department of Chemical Engineering & Applied Chemistry at the University of Toronto, where I am advised by [Professor Frank X. Gu](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/frank-gu/), [NSERC Vanier Scholar](https://vanier.gc.ca/en/home-accueil.html) and [Junior Fellow of Massey College](https://www.masseycollege.ca/). Previously, I conducted research at the University of Waterloo, Harvard Medical School and Brigham & Women’s Hospital, and received a BASc in Nanotechnology Engineering from the University of Waterloo in 2016. I have a multidisciplinary background, leading research in nanoscience, materials science, physical chemistry, chemical engineering, biomedical engineering, mathematical modelling, epidemiology and infectious diseases. 
 
-Outside of the lab, I mentor a number of students, serve as the Head of Programming for [Science Rendezvous at the University of Toronto](http://www.sciencerendezvousuoft.ca/science-rendezvous/) and direct [“I Am… A Scientist”](https://www.youtube.com/playlist?list=PLguaypFyd20heLkrIZdqmsxJa6IumCd4a), a new science outreach initiative for kids. 
+Outside of the lab, I mentor students, serve as the Head of Programming for [Science Rendezvous at the University of Toronto](http://www.sciencerendezvousuoft.ca/science-rendezvous/) and direct [“I Am… A Scientist”](https://www.youtube.com/playlist?list=PLguaypFyd20heLkrIZdqmsxJa6IumCd4a), a new science outreach initiative for kids. 
 
 ## Research
-Since early March 2020, I have pivoted my work to help respond to COVID-19. My research has focused on understanding why superspreading drives the COVID-19 pandemic, developing insight into the extent to which SARS-CoV-2 is shed via droplets and aerosols, assessing the respiratory kinetics of SARS-CoV-2, finding an indicator to potentially predict severe COVID-19 days before disease deterioration, and evaluating methods to decontaminate and reprocess N95 respirators for reuse. 
+Since early March 2020, I have pivoted my work to help respond to COVID-19. My research has focused on understanding why superspreading drives the COVID-19 pandemic, modelling how SARS-CoV-2 is shed via droplets and aerosols, assessing the respiratory kinetics of SARS-CoV-2, finding an indicator to potentially predict severe COVID-19 before disease deterioration, and evaluating methods to decontaminate N95 respirators for reuse. We published the first study to identify a virological factor associated with overdispersion, and superspreading, for directly transmitted viruses.
 
-Outside of COVID-19, I investigate how inorganic nanocrystals grow at the atomic level and use that insight to design new nanomaterials for health applications. I am passionate about developing new methodological approaches to design materials and technologies that address key health, energy and environmental issues.
+Outside of COVID-19, I investigate how nanocrystals grow at the atomic level and use that insight to design new nanomaterials for health applications. I am passionate about developing new methodological approaches to design materials and technologies that address key health, energy and environmental issues.
 
 ## Publications
 (updated May 29, 2021)
@@ -43,3 +43,7 @@ For an up-to-date list of my papers, please see [Google Scholar](https://scholar
 #### Twitter
 
 Follow me on [Twitter](https://twitter.com/paulchenz) for research updates.
+
+## News
+May 2021 - ...
+April 2021 - ...
