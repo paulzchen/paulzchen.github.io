@@ -1,4 +1,4 @@
-page updated May 2021
+page updated June 2021
 
 ![Headshot image](https://media-exp1.licdn.com/dms/image/C4E03AQHo2PCKrcAiUQ/profile-displayphoto-shrink_400_400/0/1521860909911?e=1627516800&v=beta&t=UpsTF62w5eM0fDP7gAGv2qHMTFqhWzBGPt7NaL5dHy8)
 
@@ -10,7 +10,7 @@ Outside of the lab, I mentor students, serve as the Head of Programming for [Sci
 Follow me on [Twitter](https://twitter.com/paulchenz) for research and outreach updates.
 
 ## My Research
-In early March 2020, I pivoted my research to help with the response to COVID-19. My work has helped to understand why superspreading drives the COVID-19 pandemic, assess the extent to which SARS-CoV-2 is shed via respiratory droplets and aerosols, characterize the respiratory kinetics of SARS-CoV-2, find an indicator to potentially predict severe COVID-19 days before disease deterioration, and evaluate methods to decontaminate N95 respirators for reuse. Our findings support the airborne transmission of SARS-CoV-2, aiding its growing acceptance. We also published the first study to identify a virological factor that facilitates overdispersion, and superspreading, for directly transmitted viruses. 
+In early March 2020, I pivoted my research to help with the response to COVID-19. My work has helped to understand why superspreading drives the COVID-19 pandemic; assess the extent to which SARS-CoV-2 is expelled via respiratory droplets and aerosols; identify that high, persistent SARS-CoV-2 shedding in the lower respiratory tract characterizes severe COVID-19; find an indicator to potentially predict severe COVID-19 days before disease deterioration; and evaluate methods to decontaminate N95 respirators for reuse. Our findings support the airborne transmission of SARS-CoV-2, aiding its growing acceptance. We also published the first study to identify a virological factor that facilitates overdispersion and superspreading for directly transmitted viruses. 
 
 Outside of COVID-19, I investigate how nanocrystals form, including at the atomic level, and use that insight to design new nanomaterials for health applications. I am passionate about developing new methodological approaches to design materials and technologies that address key health, energy and environmental issues. Overall, I hope our work helps to improve both science and society.
 
@@ -43,6 +43,6 @@ Outside of COVID-19, I investigate how nanocrystals form, including at the atomi
 For an up-to-date list of my papers, please see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=MGGFI3IAAAAJ&view_op=list_works&sortby=pubdate).
 
 ## News
-May 2021 - ...
+June 2021 - ...
 
 April 2021 - Received the Professor Douglas Reeve Leaders of Tomorrow Award
