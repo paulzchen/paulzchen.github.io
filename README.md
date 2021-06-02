@@ -40,7 +40,7 @@ Outside of COVID-19, I investigate how nanocrystals form, including at the atomi
 {: reversed="reversed"}	
 † denotes equal authorship, * denotes corresponding author(s)
 
-For an up-to-date list of my papers, please see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=MGGFI3IAAAAJ&view_op=list_works&sortby=pubdate).
+For an up-to-date list of my papers, please see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=MGGFI3IAAAAJ&view_op=list_works&sortby=pubdate). You can find my [CV here](...).
 
 ## News
 June 2021 - ...
