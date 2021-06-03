@@ -41,3 +41,5 @@ For an up-to-date list of my papers, please see [Google Scholar](https://scholar
 ## News
 
 April 2021 - Received the Professor Douglas Reeve Leaders of Tomorrow Award
+
+April 2021 - Became an NSERC Student Ambassador
