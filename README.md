@@ -6,7 +6,7 @@ Outside of the lab, I currently mentor students, serve as the Head of Programmin
 ## My Research
 In early March 2020, I pivoted to help with the response to COVID-19. My work has helped to understand why superspreading drives the COVID-19 pandemic; model the extent to which SARS-CoV-2 is shed via respiratory droplets and aerosols; identify that high, persistent SARS-CoV-2 replication in the lower respiratory tract characterizes severe COVID-19; find an indicator to potentially predict severe COVID-19 days before disease deterioration; and evaluate methods to decontaminate N95 respirators for reuse. Our findings support the airborne transmission of SARS-CoV-2, aiding its growing acceptance. We also published the first study to identify a virological factor that facilitates overdispersion, and superspreading, for directly transmitted viruses. 
 
-In my thesis research, I investigate how nanocrystals form, including at the atomic level, and use that insight to design new nanomaterials for health applications. 
+In my thesis research, I develop experimental and theoretical methods to investigate how nanocrystals form, including at the atomic level, and use that insight to design new nanomaterials for health applications. 
 
 My long-term interests are to develop new methodological approaches to design materials and technologies that address key health, energy and environmental issues. Overall, I hope my work helps to improve both science and society.
 
