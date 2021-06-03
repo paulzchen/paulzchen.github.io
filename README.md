@@ -3,7 +3,7 @@ I'm a PhD student in the Department of Chemical Engineering & Applied Chemistry 
 
 Outside of the lab, I mentor students, serve as the Head of Programming for [Science Rendezvous at the University of Toronto](http://www.sciencerendezvousuoft.ca/science-rendezvous/) and lead [“I Am… A Scientist”](https://www.youtube.com/playlist?list=PLguaypFyd20heLkrIZdqmsxJa6IumCd4a), a new science outreach initiative for kids. 
 
-[Twitter](https://twitter.com/paulchenz) | [Email](pz.chen@mail.utoronto.ca) | [CV](...).
+[Twitter]() | [Email](pz.chen@mail.utoronto.ca) | [CV](...).
 
 ## My Research
 In early March 2020, I pivoted my research to help with the response to COVID-19. My work has helped to understand why superspreading drives the COVID-19 pandemic; model the extent to which SARS-CoV-2 is expelled via respiratory droplets and aerosols; identify that high, persistent SARS-CoV-2 shedding in the lower respiratory tract characterizes severe COVID-19; find an indicator to potentially predict severe COVID-19 days before disease deterioration; and evaluate methods to decontaminate N95 respirators for reuse. Our findings support the airborne transmission of SARS-CoV-2, aiding its growing acceptance. We also published the first study to identify a virological factor that facilitates overdispersion, and superspreading, for directly transmitted viruses. 
