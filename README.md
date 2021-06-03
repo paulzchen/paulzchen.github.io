@@ -39,6 +39,5 @@ My long-term interests are to develop new methodological approaches to design ma
 For an up-to-date list of my papers, please see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=MGGFI3IAAAAJ&view_op=list_works&sortby=pubdate). 
 
 ## News
-June 2021 - ...
 
 April 2021 - Received the Professor Douglas Reeve Leaders of Tomorrow Award
