@@ -8,7 +8,7 @@ In early March 2020, I pivoted to help with the response to COVID-19. My work ha
 
 In my thesis research, I develop experimental and theoretical methods to investigate how nanocrystals grow, including at the atomic level, and use that insight to design new nanomaterials for health applications.
 
-My long-term interests are to understand how matter forms materials and to design materials that address key health, energy and environmental issues. Towards these goals, I develop new methodological approaches for investigation and application. Overall, I hope my work helps to improve both science and society.
+My long-term interests are to understand how matter forms materials, interpret how these phenomena mediate material properties, and design materials that address key health, energy and environmental issues. Towards these goals, I develop new methodological approaches for investigation and application. Overall, I hope my work helps to improve both science and society.
 
 ## Publications
 1. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
@@ -39,6 +39,10 @@ My long-term interests are to understand how matter forms materials and to desig
 For an up-to-date list of my papers, please see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=MGGFI3IAAAAJ&view_op=list_works&sortby=pubdate). 
 
 ## News
+
+June 2021 - Gave a talk on "Predicting disease severity in COVID-19 patients", which recived the [Best Oral Presentation Award (clinical stream)](https://twitter.com/ToBE_Conference/status/1405287082591866882?s=20) at the _Toronto Biomedical Engineering Conference_
+
+May 2021 - Presented a poster [“Why does superspreading drive COVID-19 but not the last pandemic?”](https://twitter.com/paulchenz/status/1398384186466131980?s=20) at the _Toronto ChemE Research Exhibition_
 
 April 2021 - Received the Professor Douglas Reeve Leaders of Tomorrow Award
 
