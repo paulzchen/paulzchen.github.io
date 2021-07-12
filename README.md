@@ -40,7 +40,7 @@ For an up-to-date list of my papers, please see [Google Scholar](https://scholar
 
 ## News
 
-June 2021 - Gave a talk on "Predicting disease severity in COVID-19 patients", which recived the [Best Oral Presentation Award (clinical stream)](https://twitter.com/ToBE_Conference/status/1405287082591866882?s=20) at the _Toronto Biomedical Engineering Conference_
+June 2021 - Gave a talk on "Predicting disease severity in COVID-19 patients", which received the [Best Oral Presentation Award (clinical stream)](https://twitter.com/ToBE_Conference/status/1405287082591866882?s=20) at the _Toronto Biomedical Engineering Conference_
 
 May 2021 - Presented a poster [“Why does superspreading drive COVID-19 but not the last pandemic?”](https://twitter.com/paulchenz/status/1398384186466131980?s=20) at the _Toronto ChemE Research Exhibition_
 
