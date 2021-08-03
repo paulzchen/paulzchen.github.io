@@ -12,7 +12,7 @@ My long-term interests are to broadly understand how atoms and molecules form ma
 
 ## Publications
 1. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating supersaturation throughout nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
-1. **Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* [Understanding why superspreading drives COVID-19 but not pandemic H1N1.](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00406-0/fulltext) _Lancet Infect. Dis._ (published online ahead of print).
+1. **Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* [Understanding why superspreading drives the COVID-19 pandemic but not the H1N1 pandemic.](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00406-0/fulltext) _Lancet Infect. Dis._ (published online ahead of print).
 1. **Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* [SARS-CoV-2 shedding dynamics across the respiratory tract, sex and disease severity for adult and pediatric COVID-19.](https://www.medrxiv.org/content/10.1101/2021.02.17.21251926v2) _under review_, preprinted in medRxiv.
 1.	**Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* [Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols.](https://doi.org/10.7554/eLife.65774) _eLife_ **10**, e65774 (2021).	
 1.	Clasky, A.J.†, Watchorn, J.D.†, **Chen, P.Z.**, Gu, F.X.* [From prevention to diagnosis and treatment: biomedical applications of metal nanoparticle-hydrogel composites.](https://doi.org/10.1016/j.actbio.2020.12.030) _Acta Biomater._ **122**, 1 (2021). 
