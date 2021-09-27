@@ -11,8 +11,8 @@ In my thesis research, I investigate the nanoscale thermodynamics and atomic kin
 My long-term interests are to broadly understand how atoms and molecules form complex materials, how structure leads to properties, and how to efficiently design materials that address key issues. Ultimately, I hope my work helps to improve both science and society. 
 
 ## Publications
-1. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Thermodynamic framework elucidating the supersaturation dynamics of nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
-1. **Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* [Understanding why superspreading drives the COVID-19 pandemic but not the H1N1 pandemic.](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00406-0/fulltext) _Lancet Infect. Dis._, published online ahead of print (2021).
+1. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Framework elucidating the supersaturation dynamics of nanocrystal growth.](https://arxiv.org/abs/2105.00050) _under review_, preprinted in arXiv.
+1. **Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* [Understanding why superspreading drives the COVID-19 pandemic but not the H1N1 pandemic.](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00406-0/fulltext) _Lancet Infect. Dis._ **21**, 1203 (2021).
 1. **Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* [SARS-CoV-2 shedding dynamics across the respiratory tract, sex, and disease severity for adult and pediatric COVID-19.](https://elifesciences.org/articles/70458) _eLife_ **10**, e70458 (2021).
 1.	**Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* [Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols.](https://doi.org/10.7554/eLife.65774) _eLife_ **10**, e65774 (2021).	
 1.	Clasky, A.J.†, Watchorn, J.D.†, **Chen, P.Z.**, Gu, F.X.* [From prevention to diagnosis and treatment: biomedical applications of metal nanoparticle-hydrogel composites.](https://doi.org/10.1016/j.actbio.2020.12.030) _Acta Biomater._ **122**, 1 (2021). 
