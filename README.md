@@ -43,10 +43,10 @@ For an up-to-date list of my papers, please see [Google Scholar](https://scholar
 
 December 2021 - Our Science Rendezvous team (representing the University of Toronto and Greater Toronto Area) received the STEAM Big! Award, the recognition given to the top Science Rendezvous team in engaging kids through science outreach. Our team was commended for its creativity during the pandemic in developing, and delivering, science outreach activities.
 
-June 2021 - Gave a talk on "Predicting disease severity in COVID-19 patients", which received the [Best Oral Presentation Award (clinical stream)](https://twitter.com/ToBE_Conference/status/1405287082591866882?s=20) at the _Toronto Biomedical Engineering Conference_
+June 2021 - Gave a talk on "Predicting disease severity in COVID-19 patients", which received the [Best Oral Presentation Award (clinical stream)](https://twitter.com/ToBE_Conference/status/1405287082591866882?s=20) at the _Toronto Biomedical Engineering Conference_.
 
-May 2021 - Presented a poster [“Why does superspreading drive COVID-19 but not the last pandemic?”](https://twitter.com/paulchenz/status/1398384186466131980?s=20) at the _Toronto ChemE Research Exhibition_
+May 2021 - Presented a poster [“Why does superspreading drive COVID-19 but not the last pandemic?”](https://twitter.com/paulchenz/status/1398384186466131980?s=20) at the _Toronto ChemE Research Exhibition_.
 
-April 2021 - Received the Professor Douglas Reeve Leaders of Tomorrow Award
+April 2021 - Received the Professor Douglas Reeve Leaders of Tomorrow Award.
 
-April 2021 - Became an NSERC Student Ambassador. This grant supports our new outreach initiative "I Am... A Scientist"
+April 2021 - Became an NSERC Student Ambassador. This grant supports our new outreach initiative "I Am... A Scientist".
