@@ -41,7 +41,7 @@ For an up-to-date list of my papers, please see [Google Scholar](https://scholar
 
 ## News
 
-December 2021 - Our Science Rendezvous team (representing the University of Toronto and Greater Toronto Area) received the STEAM Big! Award, the recognition given to the top Science Rendezvous team in engaging kids through science outreach. Our team was commended for its creativity during the pandemic in developing, and delivering, science outreach activities.
+December 2021 - Our Science Rendezvous team (representing the University of Toronto and Greater Toronto Area) received the STEAM Big! Award. This recognition is given to the top Science Rendezvous team for engaging kids through science outreach. Our team was commended for its creativity during the pandemic in developing, and delivering, science outreach activities.
 
 June 2021 - Gave a talk on "Predicting disease severity in COVID-19 patients", which received the [Best Oral Presentation Award (clinical stream)](https://twitter.com/ToBE_Conference/status/1405287082591866882?s=20) at the _Toronto Biomedical Engineering Conference_.
 
