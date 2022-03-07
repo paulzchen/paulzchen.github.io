@@ -12,7 +12,7 @@ My long-term interests are to broadly understand how atoms and molecules form co
 
 ## Publications
 1. **Chen, P.Z.**, Skirzynska, A., Yuan, T., Voznyy, O., Gu, F.X.* [Interfacet adatom migration as a mode of anisotropic nanocrystal growth.]() _submitted_.
-1. Watchorn, J.D.†, Clasky, A.J.†, Prakash, G., Johnston, I.A.E., **Chen, P.Z.**, Gu, F.X.* [Untangling mucosal drug delivery: engineering, designing, and testing nanoparticles to overcome the mucus barrier.]() _under review_.
+1. Watchorn, J.D.†, Clasky, A.J.†, Prakash, G., Johnston, I.A.E., **Chen, P.Z.**, Gu, F.X.* [Untangling mucosal drug delivery: engineering, designing, and testing nanoparticles to overcome the mucus barrier.]() _ACS Biomater. Sci. Eng._ accepted (2022).
 1. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Theoretical framework and experimental methodology to elucidate the supersaturation dynamics of nanocrystal growth.](https://pubs.rsc.org/en/content/articlelanding/2022/nh/d1nh00572c) _Nanoscale Horiz._, published online ahead of issue (2022).
 1. **Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* [Understanding why superspreading drives the COVID-19 pandemic but not the H1N1 pandemic.](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00406-0/fulltext) _Lancet Infect. Dis._ **21**, 1203 (2021).
 1. **Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* [SARS-CoV-2 shedding dynamics across the respiratory tract, sex, and disease severity for adult and pediatric COVID-19.](https://elifesciences.org/articles/70458) _eLife_ **10**, e70458 (2021).
