@@ -11,7 +11,7 @@ In my thesis research, I investigate the nanoscale thermodynamics and atomic kin
 My long-term interests are to broadly understand how atoms and molecules form complex materials, how structure leads to properties, and how to efficiently design materials that address key issues. Ultimately, I hope my work helps to improve both science and society. 
 
 ## Publications
-1. **Chen, P.Z.**, Skirzynska, A., Yuan, T., Voznyy, O., Gu, F.X.* [Interfacet adatom migration as a mode of anisotropic nanocrystal growth.]() _submitted_.
+1. **Chen, P.Z.**, Skirzynska, A., Yuan, T., Voznyy, O., Gu, F.X.* [Interfacet adatom migration as a mode of anisotropic nanocrystal growth.]() _under review_.
 1. Watchorn, J.D.†, Clasky, A.J.†, Prakash, G., Johnston, I.A.E., **Chen, P.Z.**, Gu, F.X.* [Untangling mucosal drug delivery: engineering, designing, and testing nanoparticles to overcome the mucus barrier.](https://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.2c00047) _ACS Biomater. Sci. Eng._, published online ahead of issue (2022).
 1. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Theoretical framework and experimental methodology to elucidate the supersaturation dynamics of nanocrystal growth.](https://pubs.rsc.org/en/content/articlelanding/2022/nh/d1nh00572c) _Nanoscale Horiz._ **7**, 376 (2022). (Inside Back Cover Article).
 1. **Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* [Understanding why superspreading drives the COVID-19 pandemic but not the H1N1 pandemic.](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00406-0/fulltext) _Lancet Infect. Dis._ **21**, 1203 (2021).
