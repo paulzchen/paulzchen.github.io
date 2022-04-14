@@ -42,7 +42,7 @@ For an up-to-date list of my papers, please see [Google Scholar](https://scholar
 
 ## News
 
-February 2022 - Presented with the [University of Toronto Student Leadership Award](https://news.engineering.utoronto.ca/meet-18-student-leaders-who-enriched-the-u-of-t-engineering-community-this-year/).
+February 2022 - Presented with the [University of Toronto Student Leadership Award](https://news.engineering.utoronto.ca/meet-18-student-leaders-who-enriched-the-u-of-t-engineering-community-this-year/) by the University of Toronto Alumni Association.
 
 December 2021 - Our Science Rendezvous team (representing the University of Toronto and Greater Toronto Area) received the STEAM Big! Award. This recognition is given to the top Science Rendezvous team for engaging kids through science outreach. Our team was commended for its creativity during the pandemic in developing, and delivering, science outreach activities.
 
