@@ -12,7 +12,7 @@ My long-term interests are to broadly understand how atoms and molecules form co
 
 ## Publications
 1. **Chen, P.Z.**, Skirzynska, A., Yuan, T., Voznyy, O., Gu, F.X.* [Interfacet adatom migration as a mode of anisotropic nanocrystal growth.]() _under review_.
-1. Watchorn, J.D.†, Clasky, A.J.†, Prakash, G., Johnston, I.A.E., **Chen, P.Z.**, Gu, F.X.* [Untangling mucosal drug delivery: engineering, designing, and testing nanoparticles to overcome the mucus barrier.](https://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.2c00047) _ACS Biomater. Sci. Eng._, published online ahead of issue (2022).
+1. Watchorn, J.D.†, Clasky, A.J.†, Prakash, G., Johnston, I.A.E., **Chen, P.Z.**, Gu, F.X.* [Untangling mucosal drug delivery: engineering, designing, and testing nanoparticles to overcome the mucus barrier.](https://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.2c00047) _ACS Biomater. Sci. Eng._ **8**, 1396 (2022).
 1. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Theoretical framework and experimental methodology to elucidate the supersaturation dynamics of nanocrystal growth.](https://pubs.rsc.org/en/content/articlelanding/2022/nh/d1nh00572c) _Nanoscale Horiz._ **7**, 376 (2022). (Inside Back Cover Article).
 1. **Chen, P.Z.**, Koopmans, M., Fisman, D.N., Gu, F.X.* [Understanding why superspreading drives the COVID-19 pandemic but not the H1N1 pandemic.](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(21)00406-0/fulltext) _Lancet Infect. Dis._ **21**, 1203 (2021).
 1. **Chen, P.Z.**, Bobrovitz, N., Premji, Z., Koopmans, M., Fisman, D.N., Gu, F.X.* [SARS-CoV-2 shedding dynamics across the respiratory tract, sex, and disease severity for adult and pediatric COVID-19.](https://elifesciences.org/articles/70458) _eLife_ **10**, e70458 (2021).
@@ -41,6 +41,8 @@ My long-term interests are to broadly understand how atoms and molecules form co
 For an up-to-date list of my papers, please see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=MGGFI3IAAAAJ&view_op=list_works&sortby=pubdate). 
 
 ## News
+
+February 2022 - Presented with the [University of Toronto Student Leadership Award](https://news.engineering.utoronto.ca/meet-18-student-leaders-who-enriched-the-u-of-t-engineering-community-this-year/).
 
 December 2021 - Our Science Rendezvous team (representing the University of Toronto and Greater Toronto Area) received the STEAM Big! Award. This recognition is given to the top Science Rendezvous team for engaging kids through science outreach. Our team was commended for its creativity during the pandemic in developing, and delivering, science outreach activities.
 
