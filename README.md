@@ -41,7 +41,7 @@ My long-term interests are to broadly understand how atoms and molecules form co
 For an up-to-date list of my papers, please see [Google Scholar](https://scholar.google.ca/citations?hl=en&user=MGGFI3IAAAAJ&view_op=list_works&sortby=pubdate). 
 
 ## Tweetorials
-To further disseminate our research, oftentimes in a more lay manner, I tweet threads discussing many of our published works. Click on the paper titles below for their tweetorials!
+To further disseminate our research, oftentimes in a more lay manner, I tweet threads discussing some of our published works. Click on the paper titles below for their tweetorials!
 - [Theoretical framework and experimental methodology to elucidate the supersaturation dynamics of nanocrystal growth.](https://twitter.com/paulchenz/status/1483959109380710400?s=20&t=K_0etQ-HugorTedR8JdrIg)
 - [Understanding why superspreading drives the COVID-19 pandemic but not the H1N1 pandemic.](https://twitter.com/paulchenz/status/1422357683408146433)
 - [SARS-CoV-2 shedding dynamics across the respiratory tract, sex, and disease severity for adult and pediatric COVID-19.](https://twitter.com/paulchenz/status/1428787684588277761)
