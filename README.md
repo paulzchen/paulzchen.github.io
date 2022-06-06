@@ -8,7 +8,7 @@ In early March 2020, I pivoted to help with the response to COVID-19. Our work h
 
 In my thesis research, I investigated the nanoscale thermodynamics and atomic kinetics of nanocrystal growth and used that insight to develop methods to design nanomaterials. We formulated theoretical equations and the accompanying experimental methodology to characterize the supersaturation dynamics underlying the growth of colloidal nanocrystals. This approach enables the prediction of growth profiles, and identification of supersaturation-associated shape evolutions, of nanocrystals, providing insight for their rational design. We are pursuing additional studies to better understand nanocrystal growth and expand the range of achievable nanocrystals. Through an industrial collaboration, we are also applying our nanomaterials to develop biomedical technologies. More to come!
 
-My long-term interests are to broadly understand how atoms and molecules form complex materials, how structure leads to properties, and how to accelerate materials discovery to help address key issues in biomedicine and elsewhere. Ultimately, I hope my work helps to improve both science and society. 
+My long-term interests are to broadly understand how atoms and molecules form complex materials, how structure leads to properties, and how to accelerate materials discovery to help address key issues in health and elsewhere. Ultimately, I hope my work helps to improve both science and society. 
 
 ## Publications
 1. **Chen, P.Z.**, Skirzynska, A., Yuan, T., Voznyy, O., Gu, F.X.* [Interfacet adatom migration as a mode of anisotropic nanocrystal growth.]() _under review_.
