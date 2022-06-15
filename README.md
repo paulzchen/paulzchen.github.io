@@ -3,6 +3,8 @@ Welcome to my academic website! I'm a PhD student in the Department of Chemical 
 
 Outside of the lab, I mentor students, have previously served as Co-chair of [Massey Grand Rounds](https://www.masseycollege.ca/massey-grand-rounds/), and have been involved in science outreach initiatives for kids, such as [“I Am… A Scientist”](https://twitter.com/UofTSR/status/1388138602354421760?s=20).
 
+I hope to complete my PhD in summer 2022, after which I will pursue postdoctoral research as a [Schmidt Science Fellow](https://schmidtsciencefellows.org/).
+
 ## My Research
 In early March 2020, I pivoted my research to topics related to COVID-19. We investigated why superspreading drives the COVID-19 pandemic but not the last pandemic (2009 H1N1), analyzed the respiratory kinetics of SARS-CoV-2, and modeled the extent to which SARS-CoV-2 is expelled via respiratory droplets and aerosols. Notably, our findings supported the aerosol transmission of SARS-CoV-2.
 
@@ -50,6 +52,8 @@ To further disseminate our research, oftentimes in a more lay manner, I have beg
 - [Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols.](https://twitter.com/paulchenz/status/1383121971291037698?s=20)
 
 ## News
+
+June 2022 - Announced as a [2022 Schmidt Science Fellow](https://schmidtsciencefellows.org/news/learn-more-about-our-2022-fellows/). Very excited to join this community!
 
 March 2022 - Received the Edward Jarvis Tyrrell Fellowship for academic merit.
 
