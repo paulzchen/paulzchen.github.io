@@ -53,7 +53,7 @@ To further disseminate our research, oftentimes in a more lay manner, I have beg
 
 ## News
 
-June 2022 - Announced as a [2022 Schmidt Science Fellow](https://schmidtsciencefellows.org/news/learn-more-about-our-2022-fellows/). Very excited to join this community!
+June 2022 - Announced as a [2022 Schmidt Science Fellow](https://schmidtsciencefellows.org/news/eric-and-wendy-schmidt-announce-2022-schmidt-science-fellows). Very excited to join this community!
 
 March 2022 - Received the Edward Jarvis Tyrrell Fellowship for academic merit.
 
