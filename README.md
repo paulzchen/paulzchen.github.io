@@ -1,9 +1,9 @@
 ## About Me
-Welcome to my academic website! I'm a PhD student in the Department of Chemical Engineering & Applied Chemistry at the [University of Toronto](https://chem-eng.utoronto.ca/), where I've been fortunate to be an [NSERC Vanier Scholar](https://vanier.gc.ca/en/home-accueil.html), a [Junior Fellow of Massey College](https://www.masseycollege.ca/), and advised by [Prof. Frank X. Gu](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/frank-gu/). Previously, I conducted research at the University of Waterloo, [Harvard Medical School](https://hms.harvard.edu/), and [Brigham & Women’s Hospital](https://www.brighamandwomens.org/), and received a BASc in Nanotechnology Engineering from the [University of Waterloo](https://uwaterloo.ca/). I have a multidisciplinary background, leading work in nanoscience, materials science, physical chemistry, chemical engineering, biomedical engineering, mathematical modelling, and infectious disease epidemiology. 
+Welcome to my academic website! I'm completing my PhD in the Department of Chemical Engineering & Applied Chemistry at the [University of Toronto](https://chem-eng.utoronto.ca/), where I've been fortunate to be an [NSERC Vanier Scholar](https://vanier.gc.ca/en/home-accueil.html), a [Junior Fellow of Massey College](https://www.masseycollege.ca/), and advised by [Prof. Frank X. Gu](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/frank-gu/). Previously, I conducted research at the University of Waterloo, [Harvard Medical School](https://hms.harvard.edu/), and [Brigham & Women’s Hospital](https://www.brighamandwomens.org/), and received a BASc in Nanotechnology Engineering from the [University of Waterloo](https://uwaterloo.ca/). I have a multidisciplinary background, leading work in nanoscience, materials science, physical chemistry, chemical engineering, biomedical engineering, mathematical modelling, and infectious disease epidemiology. 
 
 Outside of the lab, I mentor students, have previously served as Co-chair of [Massey Grand Rounds](https://www.masseycollege.ca/massey-grand-rounds/), and have been involved in science outreach initiatives for kids, such as [“I Am… A Scientist”](https://twitter.com/UofTSR/status/1388138602354421760?s=20).
 
-I hope to complete my PhD in summer 2022, after which I will pursue postdoctoral research as a [Schmidt Science Fellow](https://schmidtsciencefellows.org/).
+I recently defended my PhD, and will be pursuing postdoctoral research as a [Schmidt Science Fellow](https://schmidtsciencefellows.org/) starting Fall 2022.
 
 ## My Research
 In early March 2020, I pivoted my research to topics related to COVID-19. We investigated why superspreading drives the COVID-19 pandemic but not the last pandemic (2009 H1N1), analyzed the respiratory kinetics of SARS-CoV-2, and modeled the extent to which SARS-CoV-2 is expelled via respiratory droplets and aerosols. Notably, our findings supported the aerosol transmission of SARS-CoV-2.
@@ -12,7 +12,7 @@ Our work indicated that [virological factors foremost mediate overdispersion in 
 
 My thesis research investigates the nanoscale thermodynamics and atomic kinetics of nanocrystal growth and uses that insight to develop methods to design nanomaterials. We formulated [theoretical equations and the accompanying experimental methodology to characterize the supersaturation dynamics underlying nanocrystal growth](https://pubs.rsc.org/en/content/articlelanding/2022/nh/d1nh00572c). This approach enables for us to predict nanocrystal growth profiles and identify supersaturation-associated shape evolutions, providing insight for rational design at the nanoscale. We are completing additional studies to better understand nanocrystal growth and expand the range of achievable nanomaterials. Through an industrial collaboration, we are also applying our nanomaterials to develop biomedical technologies. More to come!
 
-My long-term interests are to broadly understand how atoms and molecules form complex materials with desired properties and how to systematize accelerated materials discovery. Ultimately, I hope my work helps to improve both science and society. 
+My long-term interests are to broadly understand how atoms and molecules form complex materials with desired properties and how to systematize accelerated materials discovery. Ultimately, I hope my work helps to improve both science and society.
 
 ## Publications
 1. Clasky, A.J., **Chen, P.Z.**, Brooks, W., McCabe, K., Gu, F.X.* [Polymer co-coating of gold nanoparticles enables their integration into contact lenses for stable, selective ocular light filters.]() _under review_.
@@ -53,6 +53,8 @@ To further disseminate our research, oftentimes in a more lay manner, I have beg
 - [Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols.](https://twitter.com/paulchenz/status/1383121971291037698?s=20)
 
 ## News
+
+August 2022 - Defended my PhD! I was awarded the Student Discovery Award by our department for my graduate research.
 
 June 2022 - Announced as a [2022 Schmidt Science Fellow](https://schmidtsciencefellows.org/news/eric-and-wendy-schmidt-announce-2022-schmidt-science-fellows). Very excited to join this community!
 
