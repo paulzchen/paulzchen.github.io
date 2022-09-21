@@ -12,7 +12,7 @@ Our work found that [virological factors foremost mediate overdispersion in viru
 
 My thesis research investigated the atomistic processes underlying nanoparticle formation and harnessed these insights to expand the capabilities for nanoparticle design. We formulated [theoretical equations and the accompanying experimental methodology to characterize the supersaturation dynamics of nanoparticle growth](https://pubs.rsc.org/en/content/articlelanding/2022/nh/d1nh00572c). This approach enables for us to predict nanoparticle growth profiles and identify supersaturation-associated shape evolutions, providing insight for rational design at the nanoscale. We are completing additional studies to better understand nanoparticle growth and expand the range of achievable nanomaterials. Through an industrial collaboration, we are also applying our nanomaterials to develop biomedical technologies. More to come!
 
-More also to come about exciting postdoc research!
+More also to come about exciting postdoc work!
 
 ## Publications
 1. Clasky, A.J., **Chen, P.Z.**, Brooks, W., McCabe, K., Gu, F.X.* [Polymer co-coating of gold nanoparticles enables their integration into contact lenses for stable, selective ocular light filters.]() accepted in _Adv. Mater. Interfaces_.
