@@ -1,7 +1,7 @@
 ## About Me
-Welcome to my academic website! I'm an incoming [Schmidt Science Fellow](https://schmidtsciencefellows.org/) in the [Liu Lab](https://www.liugroup.us/) at the [Broad Institute of MIT & Harvard](https://www.broadinstitute.org/) and the [Langer Lab](https://langerlab.mit.edu/) at the [Massachusetts Institute of Technology](https://www.mit.edu/).
+Welcome to my academic website! I'm a [Schmidt Science Fellow](https://schmidtsciencefellows.org/) conducting postdoctoral research in the [Liu Lab](https://www.liugroup.us/) at the [Broad Institute of MIT & Harvard](https://www.broadinstitute.org/) and the [Langer Lab](https://langerlab.mit.edu/) at the [Massachusetts Institute of Technology](https://www.mit.edu/).
 
-I completed my PhD in the Department of Chemical Engineering & Applied Chemistry at the [University of Toronto](https://chem-eng.utoronto.ca/), where I was fortunate to be an [NSERC Vanier Scholar](https://vanier.gc.ca/en/home-accueil.html), a [Junior Fellow of Massey College](https://www.masseycollege.ca/), and advised by [Prof. Frank X. Gu](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/frank-gu/). Prior to that, I conducted research at the University of Waterloo, [Harvard Medical School](https://hms.harvard.edu/), and [Brigham & Women’s Hospital](https://www.brighamandwomens.org/), and received a BASc in Nanotechnology Engineering from the [University of Waterloo](https://uwaterloo.ca/). I have a multidisciplinary background, leading work in nanoscience, materials science, physical chemistry, chemical engineering, biomedical engineering, mathematical modelling, and infectious disease epidemiology.
+I completed my PhD in the Department of Chemical Engineering & Applied Chemistry at the [University of Toronto](https://chem-eng.utoronto.ca/), where I was fortunate to be an [NSERC Vanier Scholar](https://vanier.gc.ca/en/home-accueil.html), a [Junior Fellow of Massey College](https://www.masseycollege.ca/), and advised by [Prof. Frank X. Gu](https://chem-eng.utoronto.ca/faculty-staff/faculty-members/frank-gu/). Prior to that, I conducted research at the University of Waterloo, [Harvard Medical School](https://hms.harvard.edu/), and [Brigham & Women’s Hospital](https://www.brighamandwomens.org/), and received a BASc in Nanotechnology Engineering from the [University of Waterloo](https://uwaterloo.ca/). I have a multidisciplinary background, leading work in biomedical engineering, chemical engineering, nanoscience, materials science, physical chemistry, mathematical modelling, and infectious disease epidemiology.
 
 Outside of the lab, I mentor students, have previously served as Co-chair of [Massey Grand Rounds](https://www.masseycollege.ca/massey-grand-rounds/), and have been involved in science outreach initiatives for kids, such as [“I Am… A Scientist”](https://twitter.com/UofTSR/status/1388138602354421760?s=20).
 
@@ -53,6 +53,8 @@ To further disseminate our research, oftentimes in a more lay manner, I have beg
 - [Heterogeneity in transmissibility and shedding SARS-CoV-2 via droplets and aerosols.](https://twitter.com/paulchenz/status/1383121971291037698?s=20)
 
 ## News
+
+October 2022 - Starting my postdoc. Feel fortunate and excited to be joining the Liu and Langer labs!
 
 August 2022 - Defended my PhD! I was awarded the Student Discovery Award by our department for my graduate research.
 
