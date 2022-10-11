@@ -15,7 +15,7 @@ My thesis research investigated the atomistic processes underlying nanoparticle 
 More also to come about exciting postdoc work!
 
 ## Publications
-1. Clasky, A.J., **Chen, P.Z.**, Brooks, W., McCabe, K., Gu, F.X.* [Polymer co-coating of gold nanoparticles enables their integration into contact lenses for stable, selective ocular light filters.]() accepted in _Adv. Mater. Interfaces_.
+1. Clasky, A.J., **Chen, P.Z.**, Brooks, W., McCabe, K., Gu, F.X.* [Polymer co-coating of gold nanoparticles enables their integration into contact lenses for stable, selective ocular light filters.](https://onlinelibrary.wiley.com/doi/10.1002/admi.202201549) _Adv. Mater. Interfaces_, 2201549 (2022).
 1. **Chen, P.Z.**, Skirzynska, A., Yuan, T., Voznyy, O., Gu, F.X.* [Asymmetric interfacet adatom migration as a mode of anisotropic nanocrystal growth.]() accepted in _J. Am. Chem. Soc._
 1. Watchorn, J.D.†, Clasky, A.J.†, Prakash, G., Johnston, I.A.E., **Chen, P.Z.**, Gu, F.X.* [Untangling mucosal drug delivery: engineering, designing, and testing nanoparticles to overcome the mucus barrier.](https://pubs.acs.org/doi/abs/10.1021/acsbiomaterials.2c00047) _ACS Biomater. Sci. Eng._ **8**, 1396 (2022).
 1. **Chen, P.Z.**, Clasky, A.J., Gu, F.X.* [Theoretical framework and experimental methodology to elucidate the supersaturation dynamics of nanocrystal growth.](https://pubs.rsc.org/en/content/articlelanding/2022/nh/d1nh00572c) _Nanoscale Horiz._ **7**, 376 (2022). (Inside Back Cover Article).
@@ -54,7 +54,7 @@ To further disseminate our research, oftentimes in a more lay manner, I have beg
 
 ## News
 
-October 2022 - Starting my postdoc. Feel fortunate and excited to be joining the Liu and Langer labs!
+October 2022 - Started my postdoc. Feel fortunate and excited to be joining the Liu and Langer labs!
 
 August 2022 - Defended my PhD! I was awarded the Student Discovery Award by our department for my graduate research.
 
